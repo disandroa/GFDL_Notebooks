@@ -4,3 +4,7 @@
 .mat
 .csv
 .png
+*.mat
+*.nc
+*.csv
+*.png
